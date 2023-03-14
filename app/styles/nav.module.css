@@ -1,0 +1,11 @@
+.main {
+    border: 2px solid red;
+    display:flex;
+    flex-direction: column;
+}
+
+.upperNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
